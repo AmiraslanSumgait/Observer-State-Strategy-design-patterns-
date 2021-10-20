@@ -1,0 +1,16 @@
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\bin\Debug\net5.0\Strategy.exe
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\bin\Debug\net5.0\Strategy.deps.json
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.json
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\bin\Debug\net5.0\Strategy.dll
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\bin\Debug\net5.0\ref\Strategy.dll
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\bin\Debug\net5.0\Strategy.pdb
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\obj\Debug\net5.0\Strategy.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\obj\Debug\net5.0\Strategy.dll
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\obj\Debug\net5.0\ref\Strategy.dll
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\obj\Debug\net5.0\Strategy.pdb
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Strategy\obj\Debug\net5.0\Strategy.genruntimeconfig.cache

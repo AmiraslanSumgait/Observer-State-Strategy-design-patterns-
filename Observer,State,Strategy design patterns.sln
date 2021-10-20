@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{01C62C74-F335-4E60-BA54-92269100078F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{36645277-ED42-4FB5-BA3B-7BBB1592829E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{3CB004DA-3C88-4681-AA5E-E554A674F811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C62C74-F335-4E60-BA54-92269100078F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C62C74-F335-4E60-BA54-92269100078F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C62C74-F335-4E60-BA54-92269100078F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C62C74-F335-4E60-BA54-92269100078F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36645277-ED42-4FB5-BA3B-7BBB1592829E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36645277-ED42-4FB5-BA3B-7BBB1592829E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36645277-ED42-4FB5-BA3B-7BBB1592829E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36645277-ED42-4FB5-BA3B-7BBB1592829E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB004DA-3C88-4681-AA5E-E554A674F811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB004DA-3C88-4681-AA5E-E554A674F811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB004DA-3C88-4681-AA5E-E554A674F811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB004DA-3C88-4681-AA5E-E554A674F811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C58B19CD-1CBE-4F3B-8DD7-9B976AD196ED}
+	EndGlobalSection
+EndGlobal

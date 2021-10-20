@@ -1,0 +1,16 @@
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\bin\Debug\net5.0\Observer.exe
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\bin\Debug\net5.0\Observer.deps.json
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\bin\Debug\net5.0\Observer.dll
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\bin\Debug\net5.0\ref\Observer.dll
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\bin\Debug\net5.0\Observer.pdb
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\obj\Debug\net5.0\Observer.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\obj\Debug\net5.0\Observer.dll
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\obj\Debug\net5.0\ref\Observer.dll
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\obj\Debug\net5.0\Observer.pdb
+C:\Users\Amiraslan\source\repos\Observer,State,Strategy design patterns\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache
